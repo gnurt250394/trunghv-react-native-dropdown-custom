@@ -1,0 +1,32 @@
+{
+  "name": "trunghv-react-native-dropdown-custom",
+  "title": "React Native Dropdown Custom",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnurt250394/trunghv-react-native-dropdown-custom.git",
+    "baseUrl": "https://github.com/gnurt250394/trunghv-react-native-dropdown-custom"
+  },
+  "keywords": [
+    "react-native",
+    "Dropdown"
+  ],
+  "author": {
+    "name": "Trunghv",
+    "email": "gnurt250394@gmail.com"
+  },
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
